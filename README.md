@@ -5,16 +5,13 @@ The Graph is the indexing and query layer of web3. Developers build and publish 
 
 The Graph, the leading decentralized protocol for indexing and querying data from blockchains, is thrilled to announce this initiative with Push Protocol to foster innovation within the student developer community. With a mission to make decentralized applications more efficient and accessible, we are encouraging students like you to explore, learn, and contribute to The Graph ecosystem by building new subgraphs or showcasing exceptional projects that utilize existing subgraphs.
 
-<h1>How to submit your porject</h1>
+<h2>How to submit your project</h2>
 <ul>
-<li></li>
-<li></li>
+<li>Upload your project into your GitHub</li>
+<li>Submit your project using this form: https://ni31qtivlel.typeform.com/to/D92QYgYR</li>
 </ul>
-- Create a PR over here: https://github.com/ethereum-push-notification-service/push-smart-contracts
-- Name the PR as [BRB]-[Last 8 digit of your waller]-basket-of-tokens
-- Submit the PR and fill in this form: https://ni31qtivlel.typeform.com/to/D92QYgYR
 
-<h1>Bounties</h1>
+<h2>Bounties</h2>
 
 **Bounties for Building New Subgraphs**
 Are you intrigued by the idea of designing and developing new subgraphs that can efficiently retrieve and present blockchain data? The Graph welcomes your creativity and skills in creating subgraphs for various blockchain networks. By participating in this bounty, you'll not only have the chance to earn rewards but also play a crucial role in enhancing data availability for decentralized applications.
