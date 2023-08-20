@@ -13,6 +13,7 @@ Are you intrigued by the idea of designing and developing new subgraphs that can
 🎖️  Prizes: $600 x 5
 </aside>
 
+
 **Bounties for Utilizing Existing Subgraphs**
 If you're someone who enjoys working with existing tools and frameworks to build innovative projects, this bounty category is perfect for you. Showcasing your ability to leverage The Graph's existing subgraphs to power your applications could earn you recognition and rewards. Whether you're building DeFi platforms, NFT marketplaces, analytics dashboards, or any other Web3 project, this bounty is ready to acknowledge your efforts.
 
